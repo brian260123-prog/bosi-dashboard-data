@@ -21,7 +21,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: pip
       - run: pip install -r scripts/requirements-dashboard.txt
       - name: 查询数据库并生成安全快照
         env:
