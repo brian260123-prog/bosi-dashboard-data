@@ -1,0 +1,43 @@
+name: 每日更新业务看板
+
+on:
+  schedule:
+    - cron: "10 18 * * *" # 北京时间每天 02:10
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-dashboard
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r scripts/requirements-dashboard.txt
+      - name: 查询数据库并生成安全快照
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+          DB_SSL: ${{ secrets.DB_SSL }}
+          DASHBOARD_OUTPUT: public/dashboard.json
+        run: python scripts/refresh_dashboard.py
+      - name: 保存最新快照
+        run: |
+          git config user.name "bosi-dashboard-bot"
+          git config user.email "bosi-dashboard-bot@users.noreply.github.com"
+          git add public/dashboard.json
+          git diff --cached --quiet && exit 0
+          git commit -m "data: refresh dashboard snapshot"
+          git push
