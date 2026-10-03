@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T06:06:45+08:00",
+  "generatedAt": "2026-10-04T05:07:24+08:00",
   "timezone": "Asia/Shanghai",
   "monthField": "created_at",
   "source": "淋浴房小程序业务系统",
@@ -4374,13 +4374,13 @@
         },
         {
           "month": "2026-10",
-          "applicationTotal": 12,
-          "effectiveTotal": 12,
+          "applicationTotal": 16,
+          "effectiveTotal": 16,
           "completedTotal": 0,
-          "pendingTotal": 12,
+          "pendingTotal": 16,
           "exceptionTotal": 0,
           "draftTotal": 0,
-          "quantityTotal": 12,
+          "quantityTotal": 16,
           "completionRate": 0.0,
           "statuses": [
             {
@@ -4401,7 +4401,7 @@
             {
               "code": "01",
               "name": "已提交",
-              "count": 12
+              "count": 16
             },
             {
               "code": "10",
@@ -4426,6 +4426,13 @@
           ],
           "dealers": [
             {
+              "name": "普陀王梦洁",
+              "orders": 3,
+              "effective": 3,
+              "completed": 0,
+              "quantity": 3
+            },
+            {
               "name": "石家庄昌诚",
               "orders": 3,
               "effective": 3,
@@ -4448,6 +4455,13 @@
             },
             {
               "name": "东营恒邦优联",
+              "orders": 1,
+              "effective": 1,
+              "completed": 0,
+              "quantity": 1
+            },
+            {
+              "name": "呼伦贝尔燚沫",
               "orders": 1,
               "effective": 1,
               "completed": 0,
@@ -9260,13 +9274,13 @@
         },
         {
           "month": "2026-10",
-          "applicationTotal": 25,
-          "effectiveTotal": 21,
+          "applicationTotal": 28,
+          "effectiveTotal": 24,
           "completedTotal": 0,
-          "pendingTotal": 21,
+          "pendingTotal": 24,
           "exceptionTotal": 0,
           "draftTotal": 4,
-          "quantityTotal": 25,
+          "quantityTotal": 28,
           "completionRate": 0.0,
           "statuses": [
             {
@@ -9282,7 +9296,7 @@
             {
               "code": "01",
               "name": "已提交",
-              "count": 21
+              "count": 24
             },
             {
               "code": "10",
@@ -9355,6 +9369,13 @@
               "quantity": 4
             },
             {
+              "name": "苍南美居",
+              "orders": 2,
+              "effective": 2,
+              "completed": 0,
+              "quantity": 2
+            },
+            {
               "name": "西安铂悦",
               "orders": 2,
               "effective": 2,
@@ -9370,6 +9391,13 @@
             },
             {
               "name": "成都国太",
+              "orders": 1,
+              "effective": 1,
+              "completed": 0,
+              "quantity": 1
+            },
+            {
+              "name": "扬中龙扬",
               "orders": 1,
               "effective": 1,
               "completed": 0,
