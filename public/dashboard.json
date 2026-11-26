@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:16:29+08:00",
+  "generatedAt": "2026-11-26T09:44:41+08:00",
   "timezone": "Asia/Shanghai",
   "monthField": "created_at",
   "source": "淋浴房小程序业务系统",
@@ -5052,14 +5052,14 @@
         },
         {
           "month": "2026-11",
-          "applicationTotal": 507,
-          "effectiveTotal": 485,
-          "completedTotal": 441,
-          "pendingTotal": 44,
-          "exceptionTotal": 10,
+          "applicationTotal": 533,
+          "effectiveTotal": 509,
+          "completedTotal": 452,
+          "pendingTotal": 57,
+          "exceptionTotal": 12,
           "draftTotal": 12,
-          "quantityTotal": 553,
-          "completionRate": 0.9093,
+          "quantityTotal": 579,
+          "completionRate": 0.888,
           "statuses": [
             {
               "code": "-20",
@@ -5069,7 +5069,7 @@
             {
               "code": "-10",
               "name": "取消",
-              "count": 10
+              "count": 12
             },
             {
               "code": "00",
@@ -5079,7 +5079,7 @@
             {
               "code": "01",
               "name": "已提交",
-              "count": 34
+              "count": 29
             },
             {
               "code": "10",
@@ -5089,12 +5089,12 @@
             {
               "code": "11",
               "name": "已受理",
-              "count": 10
+              "count": 28
             },
             {
               "code": "20",
               "name": "出图完毕",
-              "count": 441
+              "count": 452
             },
             {
               "code": "30",
@@ -5132,18 +5132,25 @@
               "quantity": 26
             },
             {
+              "name": "杭州张薇",
+              "orders": 23,
+              "effective": 23,
+              "completed": 13,
+              "quantity": 23
+            },
+            {
+              "name": "普陀王梦洁",
+              "orders": 20,
+              "effective": 18,
+              "completed": 16,
+              "quantity": 20
+            },
+            {
               "name": "扬州宏量",
               "orders": 19,
               "effective": 18,
               "completed": 18,
               "quantity": 19
-            },
-            {
-              "name": "普陀王梦洁",
-              "orders": 18,
-              "effective": 16,
-              "completed": 16,
-              "quantity": 18
             },
             {
               "name": "成都国太",
@@ -5154,13 +5161,6 @@
             },
             {
               "name": "广州锦一方",
-              "orders": 16,
-              "effective": 16,
-              "completed": 13,
-              "quantity": 16
-            },
-            {
-              "name": "杭州张薇",
               "orders": 16,
               "effective": 16,
               "completed": 13,
@@ -5219,22 +5219,29 @@
               "name": "江阴丽珂建材",
               "orders": 9,
               "effective": 9,
-              "completed": 8,
+              "completed": 9,
               "quantity": 18
+            },
+            {
+              "name": "厦门卢盛贸易",
+              "orders": 8,
+              "effective": 8,
+              "completed": 3,
+              "quantity": 8
             },
             {
               "name": "揭阳锦图",
               "orders": 8,
               "effective": 8,
-              "completed": 4,
+              "completed": 8,
               "quantity": 8
             },
             {
               "name": "深圳家家",
-              "orders": 7,
-              "effective": 7,
+              "orders": 8,
+              "effective": 8,
               "completed": 7,
-              "quantity": 7
+              "quantity": 8
             },
             {
               "name": "神木茂原",
@@ -5244,10 +5251,24 @@
               "quantity": 7
             },
             {
+              "name": "西安铂悦",
+              "orders": 7,
+              "effective": 7,
+              "completed": 5,
+              "quantity": 7
+            },
+            {
               "name": "德阳建宏",
               "orders": 6,
               "effective": 6,
               "completed": 6,
+              "quantity": 6
+            },
+            {
+              "name": "榆林融阔和",
+              "orders": 6,
+              "effective": 6,
+              "completed": 2,
               "quantity": 6
             },
             {
@@ -5294,13 +5315,6 @@
             },
             {
               "name": "石家庄昌诚",
-              "orders": 5,
-              "effective": 5,
-              "completed": 5,
-              "quantity": 5
-            },
-            {
-              "name": "西安铂悦",
               "orders": 5,
               "effective": 5,
               "completed": 5,
@@ -5366,7 +5380,7 @@
               "name": "织里峰源",
               "orders": 4,
               "effective": 4,
-              "completed": 2,
+              "completed": 4,
               "quantity": 4
             },
             {
@@ -5374,6 +5388,13 @@
               "orders": 4,
               "effective": 4,
               "completed": 4,
+              "quantity": 4
+            },
+            {
+              "name": "青岛瑞尔嘉",
+              "orders": 4,
+              "effective": 4,
+              "completed": 3,
               "quantity": 4
             },
             {
@@ -5385,13 +5406,6 @@
             },
             {
               "name": "东营恒邦优联",
-              "orders": 3,
-              "effective": 3,
-              "completed": 3,
-              "quantity": 3
-            },
-            {
-              "name": "厦门卢盛贸易",
               "orders": 3,
               "effective": 3,
               "completed": 3,
@@ -5416,6 +5430,13 @@
               "orders": 3,
               "effective": 3,
               "completed": 3,
+              "quantity": 3
+            },
+            {
+              "name": "永康镇宇",
+              "orders": 3,
+              "effective": 3,
+              "completed": 2,
               "quantity": 3
             },
             {
@@ -5461,17 +5482,10 @@
               "quantity": 3
             },
             {
-              "name": "青岛瑞尔嘉",
-              "orders": 3,
-              "effective": 3,
-              "completed": 2,
-              "quantity": 3
-            },
-            {
               "name": "唐山兴怡",
               "orders": 2,
               "effective": 1,
-              "completed": 0,
+              "completed": 1,
               "quantity": 2
             },
             {
@@ -5479,6 +5493,13 @@
               "orders": 2,
               "effective": 2,
               "completed": 2,
+              "quantity": 2
+            },
+            {
+              "name": "恩施淑睿",
+              "orders": 2,
+              "effective": 2,
+              "completed": 0,
               "quantity": 2
             },
             {
@@ -5510,23 +5531,9 @@
               "quantity": 2
             },
             {
-              "name": "榆林融阔和",
-              "orders": 2,
-              "effective": 2,
-              "completed": 1,
-              "quantity": 2
-            },
-            {
-              "name": "永康镇宇",
-              "orders": 2,
-              "effective": 2,
-              "completed": 2,
-              "quantity": 2
-            },
-            {
               "name": "深圳瑞世纪",
               "orders": 2,
-              "effective": 2,
+              "effective": 0,
               "completed": 0,
               "quantity": 2
             },
@@ -5685,6 +5692,13 @@
               "quantity": 1
             },
             {
+              "name": "武义鼎尚",
+              "orders": 1,
+              "effective": 1,
+              "completed": 0,
+              "quantity": 1
+            },
+            {
               "name": "盘锦鑫鸿鑫",
               "orders": 1,
               "effective": 1,
@@ -5695,7 +5709,7 @@
               "name": "福州乐屋",
               "orders": 1,
               "effective": 1,
-              "completed": 0,
+              "completed": 1,
               "quantity": 1
             },
             {
@@ -9778,12 +9792,12 @@
           "month": "2026-09",
           "applicationTotal": 588,
           "effectiveTotal": 578,
-          "completedTotal": 526,
-          "pendingTotal": 52,
+          "completedTotal": 528,
+          "pendingTotal": 50,
           "exceptionTotal": 1,
           "draftTotal": 9,
           "quantityTotal": 584,
-          "completionRate": 0.91,
+          "completionRate": 0.9135,
           "statuses": [
             {
               "code": "-10",
@@ -9828,7 +9842,7 @@
             {
               "code": "50",
               "name": "已完成",
-              "count": 526
+              "count": 528
             },
             {
               "code": "70",
@@ -9838,7 +9852,7 @@
             {
               "code": "71",
               "name": "已付款",
-              "count": 6
+              "count": 4
             },
             {
               "code": "72",
@@ -9998,7 +10012,7 @@
               "name": "德阳建宏",
               "orders": 8,
               "effective": 8,
-              "completed": 3,
+              "completed": 5,
               "quantity": 8
             },
             {
@@ -10511,12 +10525,12 @@
           "month": "2026-10",
           "applicationTotal": 668,
           "effectiveTotal": 660,
-          "completedTotal": 422,
-          "pendingTotal": 238,
+          "completedTotal": 451,
+          "pendingTotal": 209,
           "exceptionTotal": 3,
           "draftTotal": 5,
           "quantityTotal": 667,
-          "completionRate": 0.6394,
+          "completionRate": 0.6833,
           "statuses": [
             {
               "code": "-10",
@@ -10551,7 +10565,7 @@
             {
               "code": "30",
               "name": "生产中",
-              "count": 187
+              "count": 158
             },
             {
               "code": "40",
@@ -10561,7 +10575,7 @@
             {
               "code": "50",
               "name": "已完成",
-              "count": 422
+              "count": 451
             },
             {
               "code": "70",
@@ -10584,7 +10598,7 @@
               "name": "东阳昊宇",
               "orders": 39,
               "effective": 39,
-              "completed": 36,
+              "completed": 37,
               "quantity": 39
             },
             {
@@ -10598,21 +10612,21 @@
               "name": "温州阿创",
               "orders": 23,
               "effective": 21,
-              "completed": 12,
+              "completed": 15,
               "quantity": 23
             },
             {
               "name": "永康镇宇",
               "orders": 22,
               "effective": 22,
-              "completed": 14,
+              "completed": 18,
               "quantity": 22
             },
             {
               "name": "晋江瑞家",
               "orders": 21,
               "effective": 20,
-              "completed": 17,
+              "completed": 18,
               "quantity": 21
             },
             {
@@ -10647,7 +10661,7 @@
               "name": "运城智畅",
               "orders": 17,
               "effective": 17,
-              "completed": 13,
+              "completed": 15,
               "quantity": 17
             },
             {
@@ -10682,21 +10696,21 @@
               "name": "遂宁国颂",
               "orders": 13,
               "effective": 13,
-              "completed": 7,
+              "completed": 8,
               "quantity": 13
             },
             {
               "name": "北京城投贸易",
               "orders": 12,
               "effective": 12,
-              "completed": 3,
+              "completed": 10,
               "quantity": 12
             },
             {
               "name": "普陀王梦洁",
               "orders": 12,
               "effective": 11,
-              "completed": 7,
+              "completed": 8,
               "quantity": 12
             },
             {
@@ -10745,7 +10759,7 @@
               "name": "台州汇材通",
               "orders": 10,
               "effective": 10,
-              "completed": 5,
+              "completed": 8,
               "quantity": 10
             },
             {
@@ -10801,7 +10815,7 @@
               "name": "延安凰旭",
               "orders": 9,
               "effective": 9,
-              "completed": 0,
+              "completed": 1,
               "quantity": 9
             },
             {
@@ -10815,14 +10829,14 @@
               "name": "柯桥悦盛",
               "orders": 9,
               "effective": 9,
-              "completed": 8,
+              "completed": 9,
               "quantity": 9
             },
             {
               "name": "秦皇岛坤御",
               "orders": 9,
               "effective": 9,
-              "completed": 6,
+              "completed": 8,
               "quantity": 9
             },
             {
@@ -11032,7 +11046,7 @@
               "name": "北京梵度星夜",
               "orders": 2,
               "effective": 2,
-              "completed": 0,
+              "completed": 1,
               "quantity": 2
             },
             {
@@ -11172,7 +11186,7 @@
               "name": "宜兴宸翊",
               "orders": 1,
               "effective": 1,
-              "completed": 0,
+              "completed": 1,
               "quantity": 1
             },
             {
@@ -11249,14 +11263,14 @@
         },
         {
           "month": "2026-11",
-          "applicationTotal": 662,
-          "effectiveTotal": 642,
-          "completedTotal": 18,
-          "pendingTotal": 624,
+          "applicationTotal": 711,
+          "effectiveTotal": 689,
+          "completedTotal": 24,
+          "pendingTotal": 665,
           "exceptionTotal": 1,
-          "draftTotal": 19,
-          "quantityTotal": 656,
-          "completionRate": 0.028,
+          "draftTotal": 21,
+          "quantityTotal": 705,
+          "completionRate": 0.0348,
           "statuses": [
             {
               "code": "-10",
@@ -11266,12 +11280,12 @@
             {
               "code": "00",
               "name": "待提交",
-              "count": 19
+              "count": 21
             },
             {
               "code": "01",
               "name": "已提交",
-              "count": 2
+              "count": 0
             },
             {
               "code": "10",
@@ -11281,7 +11295,7 @@
             {
               "code": "11",
               "name": "已受理",
-              "count": 39
+              "count": 51
             },
             {
               "code": "20",
@@ -11291,7 +11305,7 @@
             {
               "code": "30",
               "name": "生产中",
-              "count": 360
+              "count": 378
             },
             {
               "code": "40",
@@ -11301,22 +11315,22 @@
             {
               "code": "50",
               "name": "已完成",
-              "count": 18
+              "count": 24
             },
             {
               "code": "70",
               "name": "已报价",
-              "count": 111
+              "count": 116
             },
             {
               "code": "71",
               "name": "已付款",
-              "count": 27
+              "count": 15
             },
             {
               "code": "72",
               "name": "未知状态 72",
-              "count": 85
+              "count": 105
             }
           ],
           "dealers": [
@@ -11349,18 +11363,18 @@
               "quantity": 24
             },
             {
+              "name": "扬中龙扬",
+              "orders": 23,
+              "effective": 23,
+              "completed": 0,
+              "quantity": 23
+            },
+            {
               "name": "三明璞尚",
               "orders": 22,
               "effective": 22,
               "completed": 0,
               "quantity": 22
-            },
-            {
-              "name": "扬中龙扬",
-              "orders": 20,
-              "effective": 20,
-              "completed": 0,
-              "quantity": 20
             },
             {
               "name": "柯桥悦盛",
@@ -11373,7 +11387,7 @@
               "name": "扬州宏量",
               "orders": 17,
               "effective": 17,
-              "completed": 1,
+              "completed": 3,
               "quantity": 17
             },
             {
@@ -11398,6 +11412,20 @@
               "quantity": 14
             },
             {
+              "name": "厚街立旭",
+              "orders": 13,
+              "effective": 13,
+              "completed": 0,
+              "quantity": 13
+            },
+            {
+              "name": "永康镇宇",
+              "orders": 13,
+              "effective": 13,
+              "completed": 0,
+              "quantity": 13
+            },
+            {
               "name": "缙云华艺",
               "orders": 13,
               "effective": 13,
@@ -11419,37 +11447,37 @@
               "quantity": 12
             },
             {
-              "name": "永康镇宇",
+              "name": "广州锦一方",
+              "orders": 12,
+              "effective": 11,
+              "completed": 0,
+              "quantity": 12
+            },
+            {
+              "name": "揭阳锦图",
               "orders": 12,
               "effective": 12,
               "completed": 0,
-              "quantity": 12
+              "quantity": 11
             },
             {
               "name": "东阳昊宇",
               "orders": 11,
               "effective": 11,
-              "completed": 0,
-              "quantity": 11
-            },
-            {
-              "name": "厚街立旭",
-              "orders": 11,
-              "effective": 11,
-              "completed": 0,
-              "quantity": 11
-            },
-            {
-              "name": "广州锦一方",
-              "orders": 11,
-              "effective": 11,
-              "completed": 0,
+              "completed": 1,
               "quantity": 11
             },
             {
               "name": "普陀王梦洁",
               "orders": 11,
               "effective": 10,
+              "completed": 0,
+              "quantity": 11
+            },
+            {
+              "name": "深圳家家",
+              "orders": 11,
+              "effective": 11,
               "completed": 0,
               "quantity": 11
             },
@@ -11475,13 +11503,6 @@
               "quantity": 10
             },
             {
-              "name": "揭阳锦图",
-              "orders": 10,
-              "effective": 10,
-              "completed": 0,
-              "quantity": 9
-            },
-            {
               "name": "杭州张薇",
               "orders": 10,
               "effective": 10,
@@ -11489,10 +11510,31 @@
               "quantity": 7
             },
             {
+              "name": "汕头卫獭",
+              "orders": 10,
+              "effective": 8,
+              "completed": 0,
+              "quantity": 9
+            },
+            {
+              "name": "江阴丽珂建材",
+              "orders": 10,
+              "effective": 10,
+              "completed": 1,
+              "quantity": 10
+            },
+            {
               "name": "福州乐屋",
               "orders": 10,
               "effective": 10,
               "completed": 1,
+              "quantity": 10
+            },
+            {
+              "name": "织里峰源",
+              "orders": 10,
+              "effective": 10,
+              "completed": 0,
               "quantity": 10
             },
             {
@@ -11517,6 +11559,13 @@
               "quantity": 9
             },
             {
+              "name": "南宁品铸",
+              "orders": 8,
+              "effective": 8,
+              "completed": 2,
+              "quantity": 8
+            },
+            {
               "name": "无锡张昌领",
               "orders": 8,
               "effective": 8,
@@ -11524,31 +11573,24 @@
               "quantity": 8
             },
             {
-              "name": "深圳家家",
+              "name": "晋江瑞家",
               "orders": 8,
-              "effective": 8,
+              "effective": 6,
               "completed": 0,
               "quantity": 8
             },
             {
-              "name": "南宁品铸",
-              "orders": 7,
+              "name": "浦东兴卡",
+              "orders": 8,
               "effective": 7,
-              "completed": 2,
-              "quantity": 7
+              "completed": 0,
+              "quantity": 8
             },
             {
               "name": "延安凰旭",
               "orders": 7,
               "effective": 7,
               "completed": 2,
-              "quantity": 7
-            },
-            {
-              "name": "晋江瑞家",
-              "orders": 7,
-              "effective": 5,
-              "completed": 0,
               "quantity": 7
             },
             {
@@ -11566,10 +11608,17 @@
               "quantity": 7
             },
             {
+              "name": "犍为源泰益通",
+              "orders": 7,
+              "effective": 6,
+              "completed": 0,
+              "quantity": 7
+            },
+            {
               "name": "金坛嘉澜",
               "orders": 7,
               "effective": 7,
-              "completed": 0,
+              "completed": 2,
               "quantity": 7
             },
             {
@@ -11580,21 +11629,14 @@
               "quantity": 6
             },
             {
-              "name": "江阴丽珂建材",
+              "name": "肇庆力合",
               "orders": 6,
               "effective": 6,
-              "completed": 1,
-              "quantity": 6
-            },
-            {
-              "name": "浦东兴卡",
-              "orders": 6,
-              "effective": 5,
               "completed": 0,
               "quantity": 6
             },
             {
-              "name": "肇庆力合",
+              "name": "芜湖张越",
               "orders": 6,
               "effective": 6,
               "completed": 0,
@@ -11622,6 +11664,13 @@
               "quantity": 5
             },
             {
+              "name": "如东超鸣",
+              "orders": 5,
+              "effective": 5,
+              "completed": 0,
+              "quantity": 5
+            },
+            {
               "name": "宁波卫适",
               "orders": 5,
               "effective": 5,
@@ -11636,7 +11685,14 @@
               "quantity": 5
             },
             {
-              "name": "织里峰源",
+              "name": "武义鼎尚",
+              "orders": 5,
+              "effective": 5,
+              "completed": 0,
+              "quantity": 5
+            },
+            {
+              "name": "营口王道来",
               "orders": 5,
               "effective": 5,
               "completed": 0,
@@ -11651,20 +11707,6 @@
             },
             {
               "name": "信阳卡丽斯塔",
-              "orders": 4,
-              "effective": 3,
-              "completed": 0,
-              "quantity": 4
-            },
-            {
-              "name": "如东超鸣",
-              "orders": 4,
-              "effective": 4,
-              "completed": 0,
-              "quantity": 4
-            },
-            {
-              "name": "犍为源泰益通",
               "orders": 4,
               "effective": 3,
               "completed": 0,
@@ -11727,6 +11769,13 @@
               "quantity": 3
             },
             {
+              "name": "乌兰察布铂丝",
+              "orders": 3,
+              "effective": 3,
+              "completed": 1,
+              "quantity": 3
+            },
+            {
               "name": "徐州梵誉",
               "orders": 3,
               "effective": 3,
@@ -11743,7 +11792,7 @@
             {
               "name": "新昌栋月",
               "orders": 3,
-              "effective": 2,
+              "effective": 3,
               "completed": 0,
               "quantity": 3
             },
@@ -11769,13 +11818,6 @@
               "quantity": 3
             },
             {
-              "name": "汕头卫獭",
-              "orders": 3,
-              "effective": 3,
-              "completed": 0,
-              "quantity": 2
-            },
-            {
               "name": "海安云鼎",
               "orders": 3,
               "effective": 2,
@@ -11784,13 +11826,6 @@
             },
             {
               "name": "珠海铂丝",
-              "orders": 3,
-              "effective": 3,
-              "completed": 0,
-              "quantity": 3
-            },
-            {
-              "name": "芜湖张越",
               "orders": 3,
               "effective": 3,
               "completed": 0,
@@ -11863,18 +11898,11 @@
               "name": "廊坊宇之奥",
               "orders": 2,
               "effective": 2,
-              "completed": 0,
+              "completed": 1,
               "quantity": 2
             },
             {
               "name": "德阳建宏",
-              "orders": 2,
-              "effective": 2,
-              "completed": 0,
-              "quantity": 2
-            },
-            {
-              "name": "武义鼎尚",
               "orders": 2,
               "effective": 2,
               "completed": 0,
@@ -11955,13 +11983,6 @@
               "orders": 1,
               "effective": 1,
               "completed": 0,
-              "quantity": 1
-            },
-            {
-              "name": "乌兰察布铂丝",
-              "orders": 1,
-              "effective": 1,
-              "completed": 1,
               "quantity": 1
             },
             {
@@ -13111,13 +13132,13 @@
         },
         {
           "month": "2026-11",
-          "applicationTotal": 5,
-          "effectiveTotal": 5,
+          "applicationTotal": 6,
+          "effectiveTotal": 6,
           "completedTotal": 0,
-          "pendingTotal": 5,
+          "pendingTotal": 6,
           "exceptionTotal": 0,
           "draftTotal": 0,
-          "quantityTotal": 5,
+          "quantityTotal": 6,
           "completionRate": 0.0,
           "statuses": [
             {
@@ -13138,7 +13159,7 @@
             {
               "code": "01",
               "name": "已提交",
-              "count": 0
+              "count": 1
             },
             {
               "code": "10",
@@ -13183,6 +13204,13 @@
             },
             {
               "name": "温州阿创",
+              "orders": 1,
+              "effective": 1,
+              "completed": 0,
+              "quantity": 1
+            },
+            {
+              "name": "西安铂悦",
               "orders": 1,
               "effective": 1,
               "completed": 0,
